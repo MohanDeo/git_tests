@@ -10,4 +10,5 @@ fun main(args: Array<String>) {
 
     // The comment for the broken PR
     // The fix after revert
+    // The fix (want this line to be present along with the line above
 }
