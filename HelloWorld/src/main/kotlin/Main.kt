@@ -9,4 +9,5 @@ fun main(args: Array<String>) {
     println("First change made by beta")
 
     // Broken branch
+    // The fix
 }
