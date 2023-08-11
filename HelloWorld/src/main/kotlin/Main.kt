@@ -9,5 +9,4 @@ fun main(args: Array<String>) {
     println("First change made by beta")
 
     // The comment for the broken PR
-    // The fix (want this line to be present along with the line above
 }
